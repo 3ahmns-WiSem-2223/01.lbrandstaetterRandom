@@ -1,4 +1,3 @@
 # 01.lbrandstaetter-Random
 
-##Random
-
+## Warum könnte man den Zufall beim Programmieren brauchen?
