@@ -14,6 +14,7 @@ Zwischen UnityEngine und System.Random gibt es im wesentlichen nur 2 Unterschied
 ## -Da UnityEngine.Random eine statische Klassse ist, hat man nur einen generator von Zuffalszahl pro Spiel. 
 
 Bsp:
+
     System.Random beispielZufallsvariable;
 
 ## -Für System.Random muss man mindestens einen Instanziieren.
