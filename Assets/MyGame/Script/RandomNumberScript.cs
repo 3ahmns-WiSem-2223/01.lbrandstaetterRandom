@@ -4,15 +4,17 @@ using UnityEngine;
 
 public class RandomNumberScript : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
-    // Update is called once per frame
-    void Update()
+    private void Start()
     {
-        
+        float randomValue = UnityEngine.Random.value;
+        Debug.Log(randomValue);
+
+
+        transform.position = UnityEngine.Random.insideUnitSphere * 5;
+        Debug.Log(transform.position + "Transform Position");
+
+        GetComponent<Rigidbody>().velocity = Random.onUnitSphere * 10;
+        Debug.Log()
     }
 }
