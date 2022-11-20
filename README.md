@@ -20,4 +20,4 @@ Bsp:
 
 Bsp:
 
-    int zufallsNummer = Random.Range(0, 10);
+    int zufallsNummer = Random.Range(0, 50);
