@@ -22,3 +22,8 @@ Bsp:
 Bsp:
 
     int zufallsNummer = Random.Range(0, 50);
+
+
+## Warum ist es sinnvoll den seed zu setzen bei Random?
+
+-Random.Range Random.Range generiert eine Zufällige und begrenzte Zahl im eingegebenen eingegrenzten Bereich.
