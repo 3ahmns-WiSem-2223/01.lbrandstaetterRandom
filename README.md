@@ -26,4 +26,8 @@ Bsp:
 
 ## Warum ist es sinnvoll den seed zu setzen bei Random?
 
+Ein Seed ist der Ausgangspunkt für eine Folge von ausgedachten Zufallszahl in einem selbst bestimmten Zahlenbereich. Wenn Sie denselben Seed verwenden, erhalten Sie dieselbe Szene.
+
+## Was macht Random.Range?
+
 -Random.Range generiert eine Zufällige und begrenzte Zahl im eingegebenen eingegrenzten Bereich.
