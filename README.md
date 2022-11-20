@@ -26,4 +26,4 @@ Bsp:
 
 ## Warum ist es sinnvoll den seed zu setzen bei Random?
 
--Random.Range Random.Range generiert eine Zufällige und begrenzte Zahl im eingegebenen eingegrenzten Bereich.
+-Random.Range generiert eine Zufällige und begrenzte Zahl im eingegebenen eingegrenzten Bereich.
